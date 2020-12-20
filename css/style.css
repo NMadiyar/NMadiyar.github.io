@@ -33,6 +33,11 @@ body{
     font-size: 18px;
     padding-right: 15px;
 }
+#navbar a:hover{
+  color: red;
+  transition: margin 1s;
+  margin-right: 10px;
+}
 #showcase{
     background-image: url("../images/coral.png");
     background-position: center right;
